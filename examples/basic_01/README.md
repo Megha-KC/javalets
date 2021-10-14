@@ -7,5 +7,7 @@
 3. run `java Simple` and you can find an incredible message printed on terminal.
 
 
+## Resources
 
+- It is a tutorial follow of [this](https://www.javatpoint.com/simple-program-of-java) page
 

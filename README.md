@@ -12,8 +12,7 @@ Weeks
 4. Create a simple http-server in java. render an html in that. Is it possible to do it without using any dependency manager?
 5. If we can do it without, next step is to do it with a dependency manger. Stick with Gradle. 
 6. Next we use more, out of the box tools to make a rest server.
-7. We use restli
-8. 
+7. We learn to make more gradle things like java libraries, jvm libraries, java modules, java applications. (See [this](https://gradle.org/guides/))
 
 
 ## setup
