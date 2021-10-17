@@ -6,7 +6,7 @@ Java is a lot, and we will learn java, one concept a week.
 
 Weeks
 
-1. Simple Java program
+1. Simple Java program - done
 2. Make a simple libary and use it in an app
 3. Use a public library in an app
 4. Create a simple http-server in java. render an html in that. Is it possible to do it without using any dependency manager?
