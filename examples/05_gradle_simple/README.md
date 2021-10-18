@@ -22,3 +22,7 @@ libraries. Gradle helps to automate a lot of tasks that we have done.
 6. we used application plugin which had few tasks ready for us. E.g. build takes care of test and producing classfiles. There are more plugins ready to help us if we know what to use when.
 7. You can add your own plugins, you can make it into a libraries and much more. It provides much more assistance for development
 8. You can see your build and test results in a nice web format. you can also publish this in gradle web servers for the world to see.
+
+
+### Resources
+This is a tutorial follow of [this](https://docs.gradle.org/current/samples/sample_building_java_applications.html) page.
